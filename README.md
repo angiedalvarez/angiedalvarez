@@ -1,23 +1,10 @@
-<!-- Banner (sube banner.png al repo o usa un link) -->
-<p align="center">
-  <img src="banner.png" alt="QA Engineer Jr - Angie Alvarez" width="100%">
-</p>
-
 <h1 align="center">Hola, soy Angie Alvarez 👋</h1>
-<p align="center">
-  <b>QA Engineer Jr | Manual & API Testing | Web & Mobile QA</b>
-</p>
+<h3 align="center">QA Engineer Jr · Manual & API Testing · Web & Mobile QA</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/angiedalvarez/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-angiedalvarez-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:<tu_email>@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contactar-EA4335?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/angiedalvarez" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-angiedalvarez-181717?logo=github&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/angiedalvarez">LinkedIn</a> ·
+  <a href="https://github.com/angiedalvarez">GitHub</a> ·
+  <a href="mailto:angieaus28@gmail.com">Email</a>
 </p>
 
 ---
