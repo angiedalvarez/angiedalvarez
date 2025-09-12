@@ -1,75 +1,78 @@
-# Hola, soy Angie Alvarez 👋  
-**QA Engineer Jr | Manual & API Testing | Web & Mobile QA**
+<!-- Banner (sube banner.png al repo o usa un link) -->
+<p align="center">
+  <img src="banner.png" alt="QA Engineer Jr - Angie Alvarez" width="100%">
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-angiedalvarez-blue?logo=linkedin)](https://www.linkedin.com/in/angiedalvarez/)
-[![GitHub](https://img.shields.io/badge/GitHub-angiedalvarez-000?logo=github)](https://github.com/angiedalvarez)
-[![Email](https://img.shields.io/badge/Email-Contactar-red)](mailto:angieaus28@gmail.com)
+<h1 align="center">Hola, soy Angie Alvarez 👋</h1>
+<p align="center">
+  <b>QA Engineer Jr | Manual & API Testing | Web & Mobile QA</b>
+</p>
 
----
-
-### Sobre mí
-QA Engineer Jr bilingüe formada en **TripleTen**, enfocada en **pruebas manuales web y móviles** y en **validación de APIs REST**.  
-Convierto requisitos en **casos de prueba reproducibles**, ejecuto **smoke/regresión** y documento defectos en **Jira** con pasos y evidencias claras. Manejo **Postman, SQL, Selenium WebDriver (Python básico), Android Studio y Chrome DevTools**.  
-Me caracterizo por un enfoque **meticuloso y orientado a los detalles**, buscando la entrega de productos de **alta calidad** que mejoren la experiencia del usuario.
-
----
-
-### Tecnologías y herramientas
-- **Testing:** Casos de prueba, checklists, regresión, smoke, exploratorio, boundary/value, equivalencia  
-- **APIs:** Postman (colecciones, variables, tests), REST, JSON  
-- **Automatización (básica):** Python + Selenium WebDriver, PyCharm, `pytest`  
-- **Móvil:** Android Studio (emulador), testing de notificaciones, permisos, offline  
-- **Datos:** SQL (consultas de verificación)  
-- **Dev & Colaboración:** Git/GitHub, Jira, Figma, Chrome DevTools, Cygwin
+<p align="center">
+  <a href="https://www.linkedin.com/in/angiedalvarez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-angiedalvarez-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:angieaus28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contactar-EA4335?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/angiedalvarez" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-angiedalvarez-181717?logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Proyectos del bootcamp (públicos)
-
-### 1) Urban Routes – Web App  🔗  
-Repositorio: **https://github.com/angiedalvarez/qa-project-Urban-Routes-es**  
-**Tipo:** QA Manual Web  
-**Rol/Stack:** Casos de prueba, regresión, DevTools, SQL, Jira  
-**Qué hice:**
-- Diseñé **plan de pruebas** y **checklists** por módulos (búsqueda, rutas, costos).
-- Apliqué **partición de equivalencia** y **valores límite**.
-- Reporté bugs en **Jira** con pasos, resultado esperado/actual y evidencias.
-- Realicé verificaciones puntuales de datos con **SQL**.
+## Sobre mí
+- 👩🏻‍💻 QA Engineer Jr bilingüe formada en **TripleTen**.
+- ✅ Especializada en **pruebas manuales** (web/móvil) y **validación de APIs REST**.
+- 🧪 Convierto requisitos en **casos de prueba reproducibles**; ejecuto **smoke / regresión** y documento en **Jira** con pasos y evidencias claras.
+- 🤖 Automatización básica con **Python + Selenium WebDriver** y **pytest**.
+- 📱 Pruebas móviles en **Android Studio** (emulador): notificaciones, permisos, offline.
+- 🔎 Me caracterizo por un enfoque **meticuloso y orientado a los detalles**, buscando la entrega de **productos de alta calidad** centrados en el usuario.
 
 ---
 
-### 2) Urban Grocers – Mobile App (Android)  🔗  
-Repositorio: **https://github.com/angiedalvarez/qa-project-Urban-Grocers-app-es**  
-**Tipo:** QA Manual Mobile  
-**Rol/Stack:** Android Studio (emulador), pruebas de **notificaciones**, permisos, flujos E2E  
-**Qué hice:**
-- Probé **escenarios críticos** (inicio de sesión, carrito, checkout).
-- Verifiqué **notificaciones push** (background, lock screen, app en uso).
-- Aseguré comportamiento con **conectividad** (sin red / reconexión).
-- Documenté **incidencias** con capturas y pasos reproducibles.
+## Tecnologías y herramientas
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-181717?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cygwin-0B7C2B?logo=gnometerminal&logoColor=white" />
+</p>
 
 ---
 
-### 3) API Stand Tests – Suite de pruebas a APIs  🔗  
-Repositorio: **https://github.com/angiedalvarez/api_stand_tests**  
-**Tipo:** Testing de API + Automatización básica  
-**Stack:** **Python**, `pytest`, `requests`, **Postman**  
-**Qué hice:**
-- Escribí **tests positivos y negativos** para endpoints REST (creación, lectura, validaciones).
-- Organicé pruebas por **módulos** y **fixtures** simples.
-- Incluí instrucciones para ejecutar la suite y validar respuestas.
+## Proyectos (públicos)
+- 🛵 **Urban Routes (Web)** — pruebas funcionales y de regresión; **API testing con Postman**; reporte en **Jira**.  
+  Repo: https://github.com/angiedalvarez/qa-project-Urban-Routes-es
 
-#### Cómo ejecutar (ejemplo)
-```bash
-# Clonar
-git clone https://github.com/angiedalvarez/api_stand_tests.git
-cd api_stand_tests
+- 🛒 **Urban Grocers (Android/Web)** — pruebas móviles en **Android Studio** (notificaciones, offline, permisos); diseño de casos; regresión.  
+  Repo: https://github.com/angiedalvarez/qa-project-Urban-Grocers-app-es
 
-# Crear entorno (opcional) e instalar dependencias
-python -m venv venv
-source venv/bin/activate   # en Windows: venv\Scripts\activate
-pip install -r requirements.txt
+- 🔗 **API Stand Tests** — suite de **pruebas de API** con Postman (colecciones/variables/tests), JSON/REST; equivalencia y valores límite.  
+  Repo: https://github.com/angiedalvarez/api_stand_tests
 
-# Ejecutar suite
-pytest -v
+---
+
+## Estadísticas
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=angiedalvarez&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="150" src="https://streak-stats.demolab.com?user=angiedalvarez&theme=transparent&hide_border=true" />
+</p>
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angiedalvarez&layout=compact&langs_count=6&theme=transparent&hide_border=true" />
+</p>
+
+<!-- Contador de visitas (opcional) -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=angiedalvarez&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
