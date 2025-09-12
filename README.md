@@ -73,29 +73,3 @@ pip install -r requirements.txt
 # Ejecutar suite
 pytest -v
 
-
-**Qué entrego como QA:**
-
-Casos de prueba, checklists y matriz de cobertura orientados a requisitos.
-
-Reportes de bugs claros en Jira (pasos, esperado/actual, severidad, evidencias).
-
-Colecciones de Postman con scripts de validación.
-
-Consultas SQL para verificación de datos.
-
-Automatización básica con Selenium + Python para flujos UI repetitivos.
-
-**Educación:**
-
-Quality Assurance Engineering – TripleTen (Bootcamp Online)
-
-**Contacto:**
-
-📫 LinkedIn: https://www.linkedin.com/in/angiedalvarez/
-
-💻 GitHub: https://github.com/angiedalvarez
-
-✉️ Email: angieaus28@gmail.com
-
-Abierta a roles QA Jr / QA Tester Jr. Si necesitas contexto adicional, revisa los READMEs de cada proyecto o contáctame.
