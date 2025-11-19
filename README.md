@@ -1,17 +1,20 @@
-<h1 align="center">👋 Hi, I'm Angie Alvarez </h1>
-<h3 align="center">Quality Assurance Engineer | Manual Testing | API Testing | Mobile QA </h3>
+<h1 align="center">👋 Hi, I'm Angie Alvarez</h1>
+<h3 align="center">Quality Assurance Engineer | Manual Testing | API Testing | Mobile QA</h3>
 
-<!-- SIDEBAR + PHOTO -->
-<table>
-<tr>
-<td width="280">
+<p align="center">
+  <img 
+    src="https://avatars.githubusercontent.com/u/217429744?s=400&u=83f04c67723a14f081f256caa99d865979a0cc66&v=4%22%20width=%22250%22%20style=%22border-radius:%2050%;" 
+    alt="Angie Alvarez" 
+    width="220" 
+    style="border-radius:50%; border: 4px solid #8be3d9;"
+  />
+</p>
 
-<!-- Sidebar -->
-<img src="https://avatars.githubusercontent.com/u/217429744?s=400&u=83f04c67723a14f081f256caa99d865979a0cc66&v=4" width="250" style="border-radius: 50%;">
+<p align="center">
+  I'm a Junior QA Engineer focused on software quality, structured testing, and continuous learning.  
+  Here you can find my main QA projects, including manual testing, API validation, mobile testing, SQL, and documentation work.
+</p>
 
-
-I’m a Junior QA Engineer focused on software quality, structured testing, and continuous learning.  
-Here you can find my main QA projects, including manual testing, API validation, mobile testing, SQL, and documentation work.
 
 ---
 
