@@ -2,13 +2,19 @@
 <h3 align="center">Quality Assurance Engineer | Manual Testing | API Testing | Mobile QA</h3>
 
 <p align="center">
-  <img 
-    src="https://avatars.githubusercontent.com/u/217429744?s=400&u=83f04c67723a14f081f256caa99d865979a0cc66&v=4%22%20width=%22250%22%20style=%22border-radius:%2050%;" 
-    alt="Angie Alvarez"
-    width="220"
-    height="220"
-    style="border-radius: 50%; object-fit: cover;"
-  />
+  <div style="
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: inline-block;
+  ">
+    <img 
+      src="https://avatars.githubusercontent.com/u/217429744?s=400&u=83f04c67723a14f081f256caa99d865979a0cc66&v=4" 
+      width="200"
+      style="object-fit: cover;"
+    />
+  </div>
 </p>
 
 <p align="center">
