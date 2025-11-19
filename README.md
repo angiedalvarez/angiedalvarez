@@ -118,12 +118,5 @@ Manual Testing · Regression · Functional Analysis · API Testing · Mobile Tes
 
 ---
 
-# 📫 Contact  
-📧 Email: *your email here*  
-🔗 LinkedIn: https://linkedin.com/in/angiedalvarez  
-🐙 GitHub: https://github.com/angiedalvarez
-
----
-
 ### 💚 “Building quality, one test at a time.”  
 
