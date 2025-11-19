@@ -4,11 +4,6 @@
 I’m a Junior QA Engineer focused on software quality, structured testing, and continuous learning.  
 Here you can find my main QA projects, including manual testing, API validation, mobile testing, SQL, and documentation work.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/angiedalvarez">LinkedIn</a> ·
-  <a href="mailto:angieaus28@gmail.com">Email</a>
-</p>
-
 ---
 
 # 🧪 Project 1 — SauceDemo: Functional Testing (E-commerce)
