@@ -1,65 +1,134 @@
-<h1 align="center">Hola, soy Angie Alvarez 👋</h1>
-<h3 align="center">QA Engineer Jr · Manual & API Testing · Web & Mobile QA</h3>
+<h1 align="center">👋 Hi, I'm Angie Alvarez </h1>
+<h3 align="center">Quality Assurance Engineer | Manual Testing | API Testing | Mobile QA </h3>
+
+I’m a Junior QA Engineer focused on software quality, structured testing, and continuous learning.  
+Here you can find my main QA projects, including manual testing, API validation, mobile testing, SQL, and documentation work.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/angiedalvarez">LinkedIn</a> ·
-  <a href="https://github.com/angiedalvarez">GitHub</a> ·
   <a href="mailto:angieaus28@gmail.com">Email</a>
 </p>
 
 ---
 
-## Sobre mí
-- 👩🏻‍💻 QA Engineer Jr bilingüe formada en **TripleTen**.
-- ✅ Especializada en **pruebas manuales** (web/móvil) y **validación de APIs REST**.
-- 🧪 Convierto requisitos en **casos de prueba reproducibles**; ejecuto **smoke / regresión** y documento en **Jira** con pasos y evidencias claras.
-- 🤖 Automatización básica con **Python + Selenium WebDriver** y **pytest**.
-- 📱 Pruebas móviles en **Android Studio** (emulador): notificaciones, permisos, offline.
-- 🔎 Me caracterizo por un enfoque **meticuloso y orientado a los detalles**, buscando la entrega de **productos de alta calidad** centrados en el usuario.
+# 🧪 Project 1 — SauceDemo: Functional Testing (E-commerce)
+
+### ✍️ Description  
+Functional end-to-end testing of the SauceDemo e-commerce platform.  
+I designed 10+ test cases covering login, product browsing, cart behavior, checkout, and logout.  
+All tests were executed manually, documenting results, findings, and UX/security improvement opportunities.
+
+### 🛠 Skills  
+- Test case design  
+- Manual test execution  
+- Bug reporting  
+- Notion documentation  
+- Functional analysis  
 
 ---
 
-## Tecnologías y herramientas
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-181717?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cygwin-0B7C2B?logo=gnometerminal&logoColor=white" />
-</p>
+# 🖥️ Project 2 — Urban Routes: Regression Testing
+
+### ✍️ Description  
+Execution of regression tests to validate the stability of existing functionalities in a ride-sharing web app.  
+Tested route creation, price calculations, estimated time, and various destination scenarios.
+
+### 🛠 Skills  
+- Regression testing  
+- Exploratory testing  
+- Calculation validation  
+- Chrome DevTools  
 
 ---
 
-## Proyectos (públicos)
-- 🛵 **Urban Routes (Web)** — pruebas funcionales y de regresión; **API testing con Postman**; reporte en **Jira**.  
-  Repo: https://github.com/angiedalvarez/qa-project-Urban-Routes-es
+# 🧩 Project 3 — Urban Routes: Test Design (Carpool Feature)
 
-- 🛒 **Urban Grocers (Android/Web)** — pruebas móviles en **Android Studio** (notificaciones, offline, permisos); diseño de casos; regresión.  
-  Repo: https://github.com/angiedalvarez/qa-project-Urban-Grocers-app-es
+### ✍️ Description  
+Structured test design for the “Carpool / Share Ride” feature.  
+Included mind maps, flow diagrams, requirement analysis, test case creation, and definition of acceptance criteria.
 
-- 🔗 **API Stand Tests** — suite de **pruebas de API** con Postman (colecciones/variables/tests), JSON/REST; equivalencia y valores límite.  
-  Repo: https://github.com/angiedalvarez/api_stand_tests
+### 🛠 Skills  
+- Mind maps (XMind / Miro)  
+- Flow diagrams  
+- Functional analysis  
+- Test case design  
 
 ---
 
-## Estadísticas
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=angiedalvarez&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="150" src="https://streak-stats.demolab.com?user=angiedalvarez&theme=transparent&hide_border=true" />
-</p>
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angiedalvarez&layout=compact&langs_count=6&theme=transparent&hide_border=true" />
-</p>
+# 🚗 Project 4 — Urban Routes: Carpool Testing (Multi-browser)
 
-<!-- Contador de visitas (opcional) -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=angiedalvarez&color=0e75b6&style=flat" alt="profile views" />
-</p>
+### ✍️ Description  
+Validation of critical functionalities in the "Share Ride" module across multiple browsers (Chrome, Firefox, Edge).  
+Assessed compatibility, UI behavior, and consistency of results.
+
+### 🛠 Skills  
+- Cross-browser testing  
+- Exploratory testing  
+- Evidence screenshots  
+
+---
+
+# 🔗 Project 5 — Urban.Grocers: API Testing (REST)
+
+### ✍️ Description  
+API testing of REST endpoints using Postman.  
+Validated status codes, JSON/XML structure, response times, error handling, and unexpected behaviors.  
+Documented defects and results in a structured bug report.
+
+### 🛠 Skills  
+- API testing  
+- Postman  
+- JSON / XML validation  
+- Assertions  
+- Bug reporting  
+
+---
+
+# 📱 Project 6 — Urban Lunch: Mobile QA (Android)
+
+### ✍️ Description  
+Functional and usability testing on an Android food-delivery app.  
+Executed tests on both emulator and physical device.  
+Validated navigation, order flow, visual components, and behavior across different screen sizes.
+
+### 🛠 Skills  
+- Mobile QA  
+- Android Studio  
+- Usability testing  
+- Screenshots & recording evidence  
+
+---
+
+# 📊 Project 7 — Taxi App: Logs & Database Testing (SQL)
+
+### ✍️ Description  
+Data consistency validation using SQL queries.  
+Analyzed backend logs, identified errors, verified data integrity, and used ER diagrams to understand relationships between database tables.
+
+### 🛠 Skills  
+- SQL  
+- Log analysis  
+- ER diagrams  
+- Debugging  
+
+---
+
+# 🛠 Tech Stack
+
+**Tools:**  
+Postman · Jira · GitHub · Chrome DevTools · Android Studio · MySQL · Draw.io · Notion
+
+**Testing:**  
+Manual Testing · Regression · Functional Analysis · API Testing · Mobile Testing · Cross-browser Testing
+
+---
+
+# 📫 Contact  
+📧 Email: *your email here*  
+🔗 LinkedIn: https://linkedin.com/in/angiedalvarez  
+🐙 GitHub: https://github.com/angiedalvarez
+
+---
+
+### 💚 “Building quality, one test at a time.”  
 
